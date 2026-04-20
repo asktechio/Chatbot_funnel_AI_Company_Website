@@ -1,9 +1,9 @@
 @extends('layouts.app')
 
-@section('title', 'AI Chatbot for Real Estate & Property | Lead Qualification & Virtual Tours | HYLUMINIX')
+@section('title', 'AI Chatbot for Real Estate & Property | Lead Qualification & Virtual Tours | EINOVATECH')
 @section('meta_description', 'AI chatbot for real estate: property search with natural language, virtual tour scheduling, EMI estimation, RERA compliance, lead qualification, and site visit booking. 50% faster lead conversion for developers and brokers.')
 @section('meta_keywords', 'real estate chatbot AI, property search chatbot, RERA compliant chatbot, virtual tour chatbot, real estate lead qualification, EMI calculator chatbot, property portal AI, broker chatbot, real estate CRM chatbot')
-@section('og_title', 'AI Chatbot for Real Estate & Property | Lead Qualification | HYLUMINIX')
+@section('og_title', 'AI Chatbot for Real Estate & Property | Lead Qualification | EINOVATECH')
 @section('og_description', 'AI chatbot for real estate: natural language property search, virtual tours, EMI calculations, and RERA-compliant lead qualification. 50% faster conversions.')
 
 @section('head')
@@ -13,8 +13,8 @@
     "@type": "Article",
     "headline": "AI Chatbot for Real Estate & Property: From Search to Site Visit",
     "description": "How AI chatbots transform real estate with intelligent property matching, RERA-compliant information delivery, and automated lead qualification.",
-    "author": { "@type": "Organization", "name": "HYLUMINIX", "url": "https://hyluminix.com" },
-    "publisher": { "@type": "Organization", "name": "HYLUMINIX", "logo": { "@type": "ImageObject", "url": "https://hyluminix.com/images/logo.png" } },
+    "author": { "@type": "Organization", "name": "EINOVATECH", "url": "https://einovatech.com" },
+    "publisher": { "@type": "Organization", "name": "EINOVATECH", "logo": { "@type": "ImageObject", "url": "https://einovatech.com/images/logo.png" } },
     "datePublished": "2026-02-26",
     "dateModified": "2026-02-26",
     "mainEntityOfPage": { "@type": "WebPage", "@id": "{{ url()->current() }}" },

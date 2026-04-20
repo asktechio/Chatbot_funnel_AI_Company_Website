@@ -1,9 +1,9 @@
 @extends('layouts.app')
 
-@section('title', 'AI Chatbot for E-Commerce & Retail | Product Discovery & Order Support | HYLUMINIX')
+@section('title', 'AI Chatbot for E-Commerce & Retail | Product Discovery & Order Support | EINOVATECH')
 @section('meta_description', 'AI-powered e-commerce chatbot for product discovery, order tracking, returns handling, personalized recommendations, abandoned cart recovery, and loyalty management. Increase conversions by 35% with conversational commerce.')
 @section('meta_keywords', 'e-commerce chatbot AI, retail chatbot, product discovery chatbot, order tracking chatbot, abandoned cart recovery AI, personalized recommendations chatbot, conversational commerce, shopping assistant AI, customer support chatbot retail')
-@section('og_title', 'AI Chatbot for E-Commerce & Retail | Conversational Commerce | HYLUMINIX')
+@section('og_title', 'AI Chatbot for E-Commerce & Retail | Conversational Commerce | EINOVATECH')
 @section('og_description', 'AI chatbot for e-commerce: natural language product discovery, order tracking, returns handling, and personalized recommendations. 35% higher conversions.')
 
 @section('head')
@@ -13,8 +13,8 @@
     "@type": "Article",
     "headline": "AI Chatbot for E-Commerce & Retail: Conversational Commerce That Converts",
     "description": "How AI chatbots transform e-commerce with natural language product discovery, personalized recommendations, and automated customer support.",
-    "author": { "@type": "Organization", "name": "HYLUMINIX", "url": "https://hyluminix.com" },
-    "publisher": { "@type": "Organization", "name": "HYLUMINIX", "logo": { "@type": "ImageObject", "url": "https://hyluminix.com/images/logo.png" } },
+    "author": { "@type": "Organization", "name": "EINOVATECH", "url": "https://einovatech.com" },
+    "publisher": { "@type": "Organization", "name": "EINOVATECH", "logo": { "@type": "ImageObject", "url": "https://einovatech.com/images/logo.png" } },
     "datePublished": "2026-02-26",
     "dateModified": "2026-02-26",
     "mainEntityOfPage": { "@type": "WebPage", "@id": "{{ url()->current() }}" },
@@ -138,7 +138,7 @@
         <div class="prose prose-lg prose-slate max-w-none mb-16">
             <h2 class="text-3xl font-bold text-slate-900 mb-6">How AI Chatbots Transform E-Commerce</h2>
             <p class="text-slate-700 leading-relaxed text-lg">
-                With <strong>58% of Gen Z already using AI chatbots</strong> (per our <a href="https://hyluminix.com/case-studies/chatbot-research/chatgpt-youth-adoption-gen-z-trends" class="text-blue-600 hover:underline">Gen Z adoption research</a>), consumers increasingly expect conversational shopping experiences. AI-powered e-commerce chatbots understand purchase intent from natural language, navigate complex product catalogues, and guide customers from discovery to checkout — all within a single conversation thread.
+                With <strong>58% of Gen Z already using AI chatbots</strong> (per our <a href="https://einovatech.com/case-studies/chatbot-research/chatgpt-youth-adoption-gen-z-trends" class="text-blue-600 hover:underline">Gen Z adoption research</a>), consumers increasingly expect conversational shopping experiences. AI-powered e-commerce chatbots understand purchase intent from natural language, navigate complex product catalogues, and guide customers from discovery to checkout — all within a single conversation thread.
             </p>
             <p class="text-slate-700 leading-relaxed text-lg">
                 Unlike traditional search-and-filter UIs, conversational commerce handles ambiguity ("something nice for my mom's birthday, she likes cooking") and refines results through dialogue. Combined with real-time inventory data, purchase history personalization, and proactive cart recovery, these chatbots deliver <strong>35% higher conversion rates</strong> and <strong>40% fewer support tickets</strong>.

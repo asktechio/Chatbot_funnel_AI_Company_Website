@@ -1,9 +1,9 @@
 @extends('layouts.app')
 
-@section('title', 'Are You Losing Customers Because You Miss Calls & WhatsApp Messages? | HYLUMINIX')
+@section('title', 'Are You Losing Customers Because You Miss Calls & WhatsApp Messages? | EINOVATECH')
 @section('meta_description', 'Every missed call is lost revenue. Our AI Patient Automation System handles WhatsApp 24/7, books appointments automatically, and qualifies leads. Book a 15-minute demo.')
 @section('meta_keywords', 'AI automation, WhatsApp chatbot, missed calls, appointment booking, patient automation, lead qualification, clinic automation')
-@section('og_title', 'Stop Losing Customers to Missed Calls & Messages | HYLUMINIX')
+@section('og_title', 'Stop Losing Customers to Missed Calls & Messages | EINOVATECH')
 @section('og_description', 'If you miss just 3 customers per week — that is thousands lost monthly. See how AI automation recovers that revenue in 14 days.')
 
 @section('head')
@@ -11,7 +11,7 @@
 {
     "@context": "https://schema.org",
     "@type": "SoftwareApplication",
-    "name": "HYLUMINIX AI WhatsApp Chatbot",
+    "name": "EINOVATECH AI WhatsApp Chatbot",
     "applicationCategory": "BusinessApplication",
     "operatingSystem": "WhatsApp, Web",
     "description": "AI-powered WhatsApp chatbot that automates customer enquiries, books appointments, and qualifies leads 24/7.",
@@ -23,9 +23,9 @@
     },
     "provider": {
         "@type": "Organization",
-        "name": "HYLUMINIX",
-        "url": "https://hyluminix.com",
-        "logo": "https://hyluminix.com/images/logos/og-logo.png"
+        "name": "EINOVATECH",
+        "url": "https://einovatech.com",
+        "logo": "https://einovatech.com/images/logos/og-logo.png"
     }
 }
 </script>
@@ -33,7 +33,7 @@
 {
     "@context": "https://schema.org",
     "@type": "WebSite",
-    "name": "HYLUMINIX",
+    "name": "EINOVATECH",
     "url": "{{ url('/') }}",
     "potentialAction": {
         "@type": "SearchAction",
@@ -296,7 +296,7 @@ document.addEventListener('alpine:init', () => {
         guidedStep: 0,
         guidedSteps: [
             {
-                botMsg: "Hey! 👋 I'm Lexi, HYLUMINIX's AI assistant. I'll show you exactly what AI automation can do for YOUR business — just 4 quick questions first!\n\nWhat type of business do you run?",
+                botMsg: "Hey! 👋 I'm Lexi, EINOVATECH's AI assistant. I'll show you exactly what AI automation can do for YOUR business — just 4 quick questions first!\n\nWhat type of business do you run?",
                 options: [
                     { label: '🏥 Clinic / Hospital', value: 'Clinic' },
                     { label: '💇 Salon / Spa', value: 'Salon' },
@@ -1071,7 +1071,7 @@ document.addEventListener('alpine:init', () => {
                     <div class="w-3 h-3 rounded-full bg-red-400"></div>
                     <div class="w-3 h-3 rounded-full bg-yellow-400"></div>
                     <div class="w-3 h-3 rounded-full bg-green-400"></div>
-                    <span class="text-slate-400 text-sm ml-3 font-mono">HYLUMINIX CRM — Bookings Dashboard</span>
+                    <span class="text-slate-400 text-sm ml-3 font-mono">EINOVATECH CRM — Bookings Dashboard</span>
                 </div>
                 <div class="flex items-center gap-2">
                     <span class="w-2 h-2 bg-green-400 rounded-full animate-pulse"></span>
@@ -1385,7 +1385,7 @@ document.addEventListener('alpine:init', () => {
                         <span class="wa-avatar-dot"></span>
                     </div>
                     <div class="wa-header-info">
-                        <div class="wa-header-name">Lexi — HYLUMINIX AI</div>
+                        <div class="wa-header-name">Lexi — EINOVATECH AI</div>
                         <div class="wa-header-status" :class="isLoading ? 'wa-status-typing' : 'wa-status-online'" x-text="isLoading ? 'typing...' : 'online'"></div>
                     </div>
                     <div class="wa-header-actions">
@@ -1543,7 +1543,7 @@ document.addEventListener('alpine:init', () => {
 
             </div>{{-- /wa-qualifier-frame --}}
 
-            <p class="text-center text-slate-400 text-xs mt-3">Powered by HYLUMINIX AI • Responses in &lt;2 seconds</p>
+            <p class="text-center text-slate-400 text-xs mt-3">Powered by EINOVATECH AI • Responses in &lt;2 seconds</p>
         </div>
     </div>
 </section>

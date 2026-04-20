@@ -1,10 +1,10 @@
 @extends('layouts.app')
 
-@section('title', 'Terms of Service | HYLUMINIX')
-@section('meta_description', 'HYLUMINIX terms of service outlining the rules and regulations for the use of our website and services.')
-@section('meta_keywords', 'HYLUMINIX terms of service, terms and conditions, service agreement, legal terms')
-@section('og_title', 'Terms of Service | HYLUMINIX')
-@section('og_description', 'Read the terms of service governing your use of HYLUMINIX products and services.')
+@section('title', 'Terms of Service | EINOVATECH')
+@section('meta_description', 'EINOVATECH terms of service outlining the rules and regulations for the use of our website and services.')
+@section('meta_keywords', 'EINOVATECH terms of service, terms and conditions, service agreement, legal terms')
+@section('og_title', 'Terms of Service | EINOVATECH')
+@section('og_description', 'Read the terms of service governing your use of EINOVATECH products and services.')
 
 @section('head')
 <script type="application/ld+json">
@@ -12,12 +12,12 @@
     "@context": "https://schema.org",
     "@type": "WebPage",
     "name": "Terms of Service",
-    "description": "HYLUMINIX terms of service outlining the rules and regulations for the use of our website and services.",
+    "description": "EINOVATECH terms of service outlining the rules and regulations for the use of our website and services.",
     "url": "{{ url('/terms-of-service') }}",
     "publisher": {
         "@type": "Organization",
-        "name": "HYLUMINIX",
-        "url": "https://hyluminix.com"
+        "name": "EINOVATECH",
+        "url": "https://einovatech.com"
     },
     "breadcrumb": {
         "@type": "BreadcrumbList",
@@ -54,7 +54,7 @@
         <div class="mb-12">
             <h2 class="text-3xl font-bold text-slate-900 mb-4">Agreement to Terms</h2>
             <p class="text-lg text-slate-600 mb-4">
-                These Terms of Service ("Terms", "Agreement") are a legal agreement between you and Hyluminix Infosystems Private Limited ("HYLUMINIX", "Company", "we", "us", or "our") governing your use of our website <a href="https://hyluminix.com" class="text-blue-600 hover:underline">hyluminix.com</a> and related services.
+                These Terms of Service ("Terms", "Agreement") are a legal agreement between you and Einovatech Infosystems Private Limited ("EINOVATECH", "Company", "we", "us", or "our") governing your use of our website <a href="https://einovatech.com" class="text-blue-600 hover:underline">einovatech.com</a> and related services.
             </p>
             <p class="text-lg text-slate-600">
                 By accessing or using our services, you agree to be bound by these Terms. If you disagree with any part of the terms, you may not access our services.
@@ -65,11 +65,11 @@
         <div class="mb-12">
             <h2 class="text-3xl font-bold text-slate-900 mb-4">Company Information</h2>
             <div class="bg-slate-50 rounded-lg p-6">
-                <p class="text-slate-700 mb-2"><strong>Hyluminix Infosystems Private Limited</strong></p>
+                <p class="text-slate-700 mb-2"><strong>Einovatech Infosystems Private Limited</strong></p>
                 <p class="text-slate-600 mb-1">CIN: U62091MP2024PTC073760</p>
                 <p class="text-slate-600 mb-1">GST: 23AAHCH6362C1ZV</p>
                 <p class="text-slate-600 mb-1">Address: Office No 315, 3rd Floor, Bhanwar Kuwa, Indore, Madhya Pradesh, India - 452014</p>
-                <p class="text-slate-600 mb-1">Email: <a href="mailto:info@hyluminix.com" class="text-blue-600 hover:underline">info@hyluminix.com</a></p>
+                <p class="text-slate-600 mb-1">Email: <a href="mailto:hello@einovatech.io" class="text-blue-600 hover:underline">hello@einovatech.io</a></p>
                 <p class="text-slate-600">Phone: <a href="tel:+919243077840" class="text-blue-600 hover:underline">+91 92430 77840</a></p>
             </div>
         </div>
@@ -78,7 +78,7 @@
         <div class="mb-12">
             <h2 class="text-3xl font-bold text-slate-900 mb-4">Services Description</h2>
             <p class="text-slate-600 mb-4">
-                HYLUMINIX provides professional software development and IT consulting services, including but not limited to:
+                EINOVATECH provides professional software development and IT consulting services, including but not limited to:
             </p>
             <ul class="list-disc pl-6 text-slate-600 space-y-2">
                 <li>Custom software development</li>
@@ -113,7 +113,7 @@
         <div class="mb-12">
             <h2 class="text-3xl font-bold text-slate-900 mb-4">Intellectual Property Rights</h2>
             <p class="text-slate-600 mb-4">
-                The website and its original content, features, and functionality are owned by HYLUMINIX and are protected by international copyright, trademark, patent, trade secret, and other intellectual property laws.
+                The website and its original content, features, and functionality are owned by EINOVATECH and are protected by international copyright, trademark, patent, trade secret, and other intellectual property laws.
             </p>
             <h3 class="text-xl font-semibold text-slate-900 mb-3 mt-6">Your Content</h3>
             <p class="text-slate-600 mb-4">
@@ -191,7 +191,7 @@
         <div class="mb-12">
             <h2 class="text-3xl font-bold text-slate-900 mb-4">Limitation of Liability</h2>
             <p class="text-slate-600 mb-4">
-                To the maximum extent permitted by law, HYLUMINIX shall not be liable for:
+                To the maximum extent permitted by law, EINOVATECH shall not be liable for:
             </p>
             <ul class="list-disc pl-6 text-slate-600 space-y-2">
                 <li>Indirect, incidental, special, consequential, or punitive damages</li>
@@ -208,7 +208,7 @@
         <div class="mb-12">
             <h2 class="text-3xl font-bold text-slate-900 mb-4">Indemnification</h2>
             <p class="text-slate-600">
-                You agree to indemnify and hold HYLUMINIX harmless from any claims, damages, losses, liabilities, and expenses (including legal fees) arising from your use of our services, violation of these Terms, or infringement of any third-party rights.
+                You agree to indemnify and hold EINOVATECH harmless from any claims, damages, losses, liabilities, and expenses (including legal fees) arising from your use of our services, violation of these Terms, or infringement of any third-party rights.
             </p>
         </div>
 
@@ -278,7 +278,7 @@
         <div class="mb-12">
             <h2 class="text-3xl font-bold text-slate-900 mb-4">Entire Agreement</h2>
             <p class="text-slate-600">
-                These Terms, together with our Privacy Policy and any specific project agreements, constitute the entire agreement between you and HYLUMINIX regarding use of our services, superseding any prior agreements.
+                These Terms, together with our Privacy Policy and any specific project agreements, constitute the entire agreement between you and EINOVATECH regarding use of our services, superseding any prior agreements.
             </p>
         </div>
 
@@ -289,8 +289,8 @@
                 If you have any questions about these Terms of Service, please contact us:
             </p>
             <div class="bg-slate-50 rounded-lg p-6">
-                <p class="text-slate-700 mb-2"><strong>Hyluminix Infosystems Private Limited</strong></p>
-                <p class="text-slate-600 mb-1">Email: <a href="mailto:legal@hyluminix.com" class="text-blue-600 hover:underline">legal@hyluminix.com</a></p>
+                <p class="text-slate-700 mb-2"><strong>Einovatech Infosystems Private Limited</strong></p>
+                <p class="text-slate-600 mb-1">Email: <a href="mailto:legal@einovatech.com" class="text-blue-600 hover:underline">legal@einovatech.com</a></p>
                 <p class="text-slate-600 mb-1">Phone: <a href="tel:+919243077840" class="text-blue-600 hover:underline">+91 92430 77840</a></p>
                 <p class="text-slate-600 mb-1">Address: Office No 315, 3rd Floor, Bhanwar Kuwa, Indore, Madhya Pradesh, India - 452014</p>
                 <p class="text-slate-600 mb-1">CIN: U62091MP2024PTC073760</p>

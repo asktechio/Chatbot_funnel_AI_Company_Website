@@ -1,10 +1,10 @@
 @extends('layouts.app')
 
-@section('title', 'Privacy Policy | HYLUMINIX')
-@section('meta_description', 'HYLUMINIX privacy policy outlining how we collect, use, protect, and manage your personal information and data.')
-@section('meta_keywords', 'HYLUMINIX privacy policy, data protection, personal information, GDPR, data privacy')
-@section('og_title', 'Privacy Policy | HYLUMINIX')
-@section('og_description', 'Read our privacy policy to understand how HYLUMINIX collects, uses, and protects your personal data.')
+@section('title', 'Privacy Policy | EINOVATECH')
+@section('meta_description', 'EINOVATECH privacy policy outlining how we collect, use, protect, and manage your personal information and data.')
+@section('meta_keywords', 'EINOVATECH privacy policy, data protection, personal information, GDPR, data privacy')
+@section('og_title', 'Privacy Policy | EINOVATECH')
+@section('og_description', 'Read our privacy policy to understand how EINOVATECH collects, uses, and protects your personal data.')
 
 @section('head')
 <script type="application/ld+json">
@@ -12,12 +12,12 @@
     "@context": "https://schema.org",
     "@type": "WebPage",
     "name": "Privacy Policy",
-    "description": "HYLUMINIX privacy policy outlining how we collect, use, protect, and manage your personal information and data.",
+    "description": "EINOVATECH privacy policy outlining how we collect, use, protect, and manage your personal information and data.",
     "url": "{{ url('/privacy-policy') }}",
     "publisher": {
         "@type": "Organization",
-        "name": "HYLUMINIX",
-        "url": "https://hyluminix.com"
+        "name": "EINOVATECH",
+        "url": "https://einovatech.com"
     },
     "breadcrumb": {
         "@type": "BreadcrumbList",
@@ -54,7 +54,7 @@
         <div class="mb-12">
             <h2 class="text-3xl font-bold text-slate-900 mb-4">Introduction</h2>
             <p class="text-lg text-slate-600 mb-4">
-                Hyluminix Infosystems Private Limited ("HYLUMINIX", "we", "us", or "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website <a href="https://hyluminix.com" class="text-blue-600 hover:underline">hyluminix.com</a> or use our services.
+                Einovatech Infosystems Private Limited ("EINOVATECH", "we", "us", or "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website <a href="https://einovatech.com" class="text-blue-600 hover:underline">einovatech.com</a> or use our services.
             </p>
             <p class="text-lg text-slate-600">
                 Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the site or use our services.
@@ -168,7 +168,7 @@
                 <li><strong>Withdraw Consent:</strong> Withdraw consent at any time</li>
             </ul>
             <p class="text-slate-600 mt-4">
-                To exercise these rights, please contact us at <a href="mailto:privacy@hyluminix.com" class="text-blue-600 hover:underline">privacy@hyluminix.com</a>
+                To exercise these rights, please contact us at <a href="mailto:privacy@einovatech.com" class="text-blue-600 hover:underline">privacy@einovatech.com</a>
             </p>
         </div>
 
@@ -219,8 +219,8 @@
                 If you have any questions about this Privacy Policy, please contact us:
             </p>
             <div class="bg-slate-50 rounded-lg p-6">
-                <p class="text-slate-700 mb-2"><strong>Hyluminix Infosystems Private Limited</strong></p>
-                <p class="text-slate-600 mb-1">Email: <a href="mailto:privacy@hyluminix.com" class="text-blue-600 hover:underline">privacy@hyluminix.com</a></p>
+                <p class="text-slate-700 mb-2"><strong>Einovatech Infosystems Private Limited</strong></p>
+                <p class="text-slate-600 mb-1">Email: <a href="mailto:privacy@einovatech.com" class="text-blue-600 hover:underline">privacy@einovatech.com</a></p>
                 <p class="text-slate-600 mb-1">Phone: <a href="tel:+919243077840" class="text-blue-600 hover:underline">+91 92430 77840</a></p>
                 <p class="text-slate-600 mb-1">Address: Office No 315, 3rd Floor, Bhanwar Kuwa, Indore, Madhya Pradesh, India - 452014</p>
                 <p class="text-slate-600 mb-1">CIN: U62091MP2024PTC073760</p>

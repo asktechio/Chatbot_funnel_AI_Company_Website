@@ -1,9 +1,9 @@
 @extends('layouts.app')
 
-@section('title', 'AI Chatbot for Healthcare & Patient Engagement | HIPAA/DISHA Compliant | HYLUMINIX')
+@section('title', 'AI Chatbot for Healthcare & Patient Engagement | HIPAA/DISHA Compliant | EINOVATECH')
 @section('meta_description', 'AI-powered healthcare chatbot for patient triage, appointment scheduling, symptom screening, medication reminders, lab results delivery, and telemedicine routing. HIPAA & DISHA compliant patient engagement.')
 @section('meta_keywords', 'healthcare chatbot AI, patient engagement chatbot, hospital chatbot, appointment scheduling AI, symptom checker chatbot, telemedicine chatbot, medical chatbot, patient triage AI, HIPAA compliant chatbot, DISHA compliant, healthcare automation')
-@section('og_title', 'AI Chatbot for Healthcare & Patient Engagement | HYLUMINIX')
+@section('og_title', 'AI Chatbot for Healthcare & Patient Engagement | EINOVATECH')
 @section('og_description', 'HIPAA/DISHA-compliant AI chatbot for healthcare: patient triage, appointment scheduling, symptom screening, and telemedicine integration.')
 
 @section('head')
@@ -13,8 +13,8 @@
     "@type": "Article",
     "headline": "AI Chatbot for Healthcare & Patient Engagement: Transforming Hospital Operations",
     "description": "How AI chatbots improve patient engagement with automated triage, appointment scheduling, medication reminders, and HIPAA-compliant communication.",
-    "author": { "@type": "Organization", "name": "HYLUMINIX", "url": "https://hyluminix.com" },
-    "publisher": { "@type": "Organization", "name": "HYLUMINIX", "logo": { "@type": "ImageObject", "url": "https://hyluminix.com/images/logo.png" } },
+    "author": { "@type": "Organization", "name": "EINOVATECH", "url": "https://einovatech.com" },
+    "publisher": { "@type": "Organization", "name": "EINOVATECH", "logo": { "@type": "ImageObject", "url": "https://einovatech.com/images/logo.png" } },
     "datePublished": "2026-02-26",
     "dateModified": "2026-02-26",
     "mainEntityOfPage": { "@type": "WebPage", "@id": "{{ url()->current() }}" },
@@ -125,7 +125,7 @@
                 Healthcare systems worldwide face a common challenge: overburdened staff, long patient wait times, and disconnected communication channels. An <strong>AI-powered healthcare chatbot</strong> addresses all three by automating routine patient interactions — from booking appointments and pre-screening symptoms to sending medication reminders and delivering lab results.
             </p>
             <p class="text-slate-700 leading-relaxed text-lg">
-                With <strong>54% of enterprises already using generative AI</strong> (per our <a href="https://hyluminix.com/case-studies/chatbot-research/global-chatbot-adoption-trends-2026" class="text-blue-600 hover:underline">global adoption research</a>), healthcare is among the fastest-adopting industries. AI chatbots handle up to 85% of routine patient queries, freeing clinical staff to focus on care delivery while maintaining <strong>HIPAA and DISHA compliance</strong> for all patient data.
+                With <strong>54% of enterprises already using generative AI</strong> (per our <a href="https://einovatech.com/case-studies/chatbot-research/global-chatbot-adoption-trends-2026" class="text-blue-600 hover:underline">global adoption research</a>), healthcare is among the fastest-adopting industries. AI chatbots handle up to 85% of routine patient queries, freeing clinical staff to focus on care delivery while maintaining <strong>HIPAA and DISHA compliance</strong> for all patient data.
             </p>
         </div>
 

@@ -1,23 +1,23 @@
 @extends('layouts.app')
 
-@section('title', 'About Us — HYLUMINIX | AI-Powered Customer Automation')
-@section('meta_description', 'Learn about HYLUMINIX — a forward-thinking technology company building AI-powered WhatsApp chatbots and customer automation solutions for businesses worldwide.')
-@section('meta_keywords', 'about HYLUMINIX, AI chatbot company, WhatsApp automation, customer automation, AI technology partner')
-@section('og_title', 'About HYLUMINIX — AI-Powered Customer Automation Company')
-@section('og_description', 'HYLUMINIX builds AI-powered WhatsApp chatbots and customer automation solutions that help businesses recover lost revenue and serve customers 24/7.')
+@section('title', 'About Us — EINOVATECH | AI-Powered Customer Automation')
+@section('meta_description', 'Learn about EINOVATECH — a forward-thinking technology company building AI-powered WhatsApp chatbots and customer automation solutions for businesses worldwide.')
+@section('meta_keywords', 'about EINOVATECH, AI chatbot company, WhatsApp automation, customer automation, AI technology partner')
+@section('og_title', 'About EINOVATECH — AI-Powered Customer Automation Company')
+@section('og_description', 'EINOVATECH builds AI-powered WhatsApp chatbots and customer automation solutions that help businesses recover lost revenue and serve customers 24/7.')
 
 @section('head')
 <script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "Organization",
-    "name": "HYLUMINIX",
-    "url": "https://hyluminix.com",
-    "logo": "https://hyluminix.com/images/logos/og-logo.png",
-    "description": "HYLUMINIX builds AI-powered WhatsApp chatbots and customer automation solutions for businesses.",
+    "name": "EINOVATECH",
+    "url": "https://einovatech.com",
+    "logo": "https://einovatech.com/images/logos/og-logo.png",
+    "description": "EINOVATECH builds AI-powered WhatsApp chatbots and customer automation solutions for businesses.",
     "foundingDate": "2023",
     "sameAs": [
-        "https://www.linkedin.com/company/hyluminix"
+        "https://www.linkedin.com/company/einovatech"
     ],
     "contactPoint": {
         "@type": "ContactPoint",
@@ -42,14 +42,14 @@
                 <svg class="w-5 h-5 text-blue-300 mr-2" fill="currentColor" viewBox="0 0 20 20">
                     <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
                 </svg>
-                <span class="text-white/90 font-medium text-sm">About HYLUMINIX</span>
+                <span class="text-white/90 font-medium text-sm">About EINOVATECH</span>
             </div>
             <h1 class="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6 leading-tight">
                 We Build AI That
                 <span class="bg-gradient-to-r from-teal-400 to-blue-400 bg-clip-text text-transparent"> Talks to Your Customers</span>
             </h1>
             <p class="text-xl md:text-2xl text-blue-100/80 mb-8 leading-relaxed max-w-4xl mx-auto">
-                HYLUMINIX is an AI-first technology company specialising in conversational automation. We help businesses automate customer enquiries, book appointments, and qualify leads 24/7 — across WhatsApp, web, and voice.
+                EINOVATECH is an AI-first technology company specialising in conversational automation. We help businesses automate customer enquiries, book appointments, and qualify leads 24/7 — across WhatsApp, web, and voice.
             </p>
         </div>
     </div>
@@ -110,13 +110,13 @@
                 <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-6">Our Story</h2>
                 <div class="space-y-4 text-slate-700 leading-relaxed">
                     <p>
-                        HYLUMINIX was born from a simple observation: businesses lose thousands in revenue every month because they can't respond to customer enquiries fast enough. A missed WhatsApp message at 11 PM or an unanswered call during lunch break — each one is a lost customer.
+                        EINOVATECH was born from a simple observation: businesses lose thousands in revenue every month because they can't respond to customer enquiries fast enough. A missed WhatsApp message at 11 PM or an unanswered call during lunch break — each one is a lost customer.
                     </p>
                     <p>
                         We set out to solve this with AI-powered conversational automation. Our platform handles enquiries on WhatsApp, books appointments, qualifies leads, and integrates with your existing CRM — all without human intervention.
                     </p>
                     <p>
-                        Today, HYLUMINIX serves businesses across healthcare, finance, real estate, education, hospitality, and retail. From a single dental clinic in Mumbai to insurance distributors processing hundreds of policies daily — our chatbots work 24/7 so your team doesn't have to.
+                        Today, EINOVATECH serves businesses across healthcare, finance, real estate, education, hospitality, and retail. From a single dental clinic in Mumbai to insurance distributors processing hundreds of policies daily — our chatbots work 24/7 so your team doesn't have to.
                     </p>
                 </div>
             </div>
@@ -126,7 +126,7 @@
                         <div class="w-24 h-24 rounded-2xl bg-gradient-to-br from-teal-400 via-blue-500 to-violet-600 flex items-center justify-center mx-auto mb-6 shadow-xl">
                             <span class="text-white font-extrabold text-5xl leading-none">H</span>
                         </div>
-                        <div class="text-2xl font-bold text-slate-900 mb-2">HYLUMINIX</div>
+                        <div class="text-2xl font-bold text-slate-900 mb-2">EINOVATECH</div>
                         <div class="text-slate-600">Illuminating Your Digital Future</div>
                     </div>
                 </div>

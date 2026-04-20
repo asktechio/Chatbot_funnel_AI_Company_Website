@@ -366,7 +366,7 @@ Note: For SQLite, replace `CURDATE()` with `DATE('now')` and `SUM(expr)` works t
 **Fix — Use environment variable:**
 ```php
 User::firstOrCreate(
-    ['email' => env('ADMIN_EMAIL', 'admin@hyluminix.com')],
+    ['email' => env('ADMIN_EMAIL', 'admin@einovatech.com')],
     [
         'name'     => 'Admin',
         'password' => Hash::make(env('ADMIN_PASSWORD', Str::random(16))),

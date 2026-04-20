@@ -1,9 +1,9 @@
 @extends('layouts.app')
 
-@section('title', 'AI Chatbot for Hospitality & Travel | Booking, Concierge & Guest Support | HYLUMINIX')
+@section('title', 'AI Chatbot for Hospitality & Travel | Booking, Concierge & Guest Support | EINOVATECH')
 @section('meta_description', 'AI chatbot for hospitality: hotel booking, concierge services, check-in/check-out, itinerary planning, restaurant reservations, multilingual guest support, and loyalty management. 40% higher direct bookings, 55% fewer front desk calls.')
 @section('meta_keywords', 'hospitality chatbot AI, hotel chatbot, travel chatbot, booking chatbot, concierge AI, guest support chatbot, hotel check-in chatbot, itinerary planner AI, restaurant reservation chatbot, multilingual hotel chatbot')
-@section('og_title', 'AI Chatbot for Hospitality & Travel | Direct Bookings & Guest Experience | HYLUMINIX')
+@section('og_title', 'AI Chatbot for Hospitality & Travel | Direct Bookings & Guest Experience | EINOVATECH')
 @section('og_description', 'AI chatbot for hospitality: direct booking, concierge, check-in, itinerary planning, and multilingual guest support. 40% more direct bookings.')
 
 @section('head')
@@ -13,8 +13,8 @@
     "@type": "Article",
     "headline": "AI Chatbot for Hospitality & Travel: Guest Experience Reimagined",
     "description": "How AI chatbots transform hospitality with direct booking, digital concierge, and multilingual guest engagement.",
-    "author": { "@type": "Organization", "name": "HYLUMINIX", "url": "https://hyluminix.com" },
-    "publisher": { "@type": "Organization", "name": "HYLUMINIX", "logo": { "@type": "ImageObject", "url": "https://hyluminix.com/images/logo.png" } },
+    "author": { "@type": "Organization", "name": "EINOVATECH", "url": "https://einovatech.com" },
+    "publisher": { "@type": "Organization", "name": "EINOVATECH", "logo": { "@type": "ImageObject", "url": "https://einovatech.com/images/logo.png" } },
     "datePublished": "2026-02-26",
     "dateModified": "2026-02-26",
     "mainEntityOfPage": { "@type": "WebPage", "@id": "{{ url()->current() }}" },

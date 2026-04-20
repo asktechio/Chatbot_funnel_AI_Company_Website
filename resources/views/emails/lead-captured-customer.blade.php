@@ -9,7 +9,7 @@
 
         <p>Hi {{ $session->contact_name ?? 'there' }},</p>
 
-        <p>Vimal here, from HYLUMINIX. Thanks for chatting with us — it was great learning a bit about your {{ $session->business_type ?? 'business' }}.</p>
+        <p>Vimal here, from EINOVATECH. Thanks for chatting with us — it was great learning a bit about your {{ $session->business_type ?? 'business' }}.</p>
 
         <p>I've passed your details to our team. Someone will drop you a WhatsApp message{{ $session->whatsapp ? ' on ' . $session->whatsapp : '' }} in the next couple of hours to set up a quick 15-minute demo call — totally free, no strings attached.</p>
 
@@ -19,8 +19,8 @@
 
         <p>
             — <strong>Vimal</strong><br>
-            <span style="color:#666; font-size:13px;">HYLUMINIX — AI Customer Automation</span><br>
-            <span style="color:#666; font-size:13px;"><a href="https://chatbot.hyluminix.com" style="color:#2563eb; text-decoration:none;">chatbot.hyluminix.com</a> · +91 92430 77840</span>
+            <span style="color:#666; font-size:13px;">EINOVATECH — AI Customer Automation</span><br>
+            <span style="color:#666; font-size:13px;"><a href="https://chatbot.einovatech.com" style="color:#2563eb; text-decoration:none;">chatbot.einovatech.com</a> · +91 92430 77840</span>
         </p>
 
     </div>

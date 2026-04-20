@@ -9,7 +9,7 @@
 
         <p>Hi {{ $session->contact_name ?? 'there' }},</p>
 
-        <p>This is Vimal from HYLUMINIX — thanks for booking a demo! Really glad you're interested.</p>
+        <p>This is Vimal from EINOVATECH — thanks for booking a demo! Really glad you're interested.</p>
 
         <p>I wanted to quickly let you know what happens next:</p>
 
@@ -22,8 +22,8 @@
         <p>
             Cheers,<br>
             <strong>Vimal</strong><br>
-            <span style="color:#666; font-size:13px;">HYLUMINIX — AI Customer Automation</span><br>
-            <span style="color:#666; font-size:13px;"><a href="https://chatbot.hyluminix.com" style="color:#2563eb; text-decoration:none;">chatbot.hyluminix.com</a> · +91 92430 77840</span>
+            <span style="color:#666; font-size:13px;">EINOVATECH — AI Customer Automation</span><br>
+            <span style="color:#666; font-size:13px;"><a href="https://chatbot.einovatech.com" style="color:#2563eb; text-decoration:none;">chatbot.einovatech.com</a> · +91 92430 77840</span>
         </p>
 
     </div>

@@ -1,9 +1,9 @@
 @extends('layouts.app')
 
-@section('title', 'AI Chatbot for Education & EdTech | Student Enrollment & Course Advisory | HYLUMINIX')
+@section('title', 'AI Chatbot for Education & EdTech | Student Enrollment & Course Advisory | EINOVATECH')
 @section('meta_description', 'AI chatbot for education: automated student enrollment, personalized course advisory, admission guidance, exam preparation, assignment help, parent communication, and LMS integration. 45% higher enrollment conversions.')
 @section('meta_keywords', 'education chatbot AI, edtech chatbot, student enrollment chatbot, course advisory AI, admission chatbot, university chatbot, online learning chatbot, LMS chatbot, exam preparation AI, parent communication chatbot')
-@section('og_title', 'AI Chatbot for Education & EdTech | Student Enrollment & Advisory | HYLUMINIX')
+@section('og_title', 'AI Chatbot for Education & EdTech | Student Enrollment & Advisory | EINOVATECH')
 @section('og_description', 'AI chatbot for education: student enrollment, course advisory, admission guidance, and exam preparation. 45% higher enrollment conversions for institutions.')
 
 @section('head')
@@ -13,8 +13,8 @@
     "@type": "Article",
     "headline": "AI Chatbot for Education & EdTech: Enrollment to Graduation",
     "description": "How AI chatbots transform education with automated enrollment, personalized course advisory, and intelligent student support.",
-    "author": { "@type": "Organization", "name": "HYLUMINIX", "url": "https://hyluminix.com" },
-    "publisher": { "@type": "Organization", "name": "HYLUMINIX", "logo": { "@type": "ImageObject", "url": "https://hyluminix.com/images/logo.png" } },
+    "author": { "@type": "Organization", "name": "EINOVATECH", "url": "https://einovatech.com" },
+    "publisher": { "@type": "Organization", "name": "EINOVATECH", "logo": { "@type": "ImageObject", "url": "https://einovatech.com/images/logo.png" } },
     "datePublished": "2026-02-26",
     "dateModified": "2026-02-26",
     "mainEntityOfPage": { "@type": "WebPage", "@id": "{{ url()->current() }}" },
@@ -141,7 +141,7 @@
                 Educational institutions face a paradox: growing inquiry volumes but shrinking admission teams. During peak seasons, universities receive <strong>10,000+ inquiries per week</strong> — most with similar questions about eligibility, fees, placements, and deadlines. AI chatbots handle this entire top-of-funnel instantly, while providing personalized guidance that improves student outcomes.
             </p>
             <p class="text-slate-700 leading-relaxed text-lg">
-                As highlighted in our <a href="https://hyluminix.com/case-studies/chatbot-research/chatgpt-youth-adoption-gen-z-trends" class="text-blue-600 hover:underline">Gen Z adoption research</a>, young users are already comfortable with AI assistants. An education chatbot meets them where they are — on WhatsApp, the institutional website, or within the LMS — providing course recommendations, admission tracking, fee assistance, and academic support throughout their journey.
+                As highlighted in our <a href="https://einovatech.com/case-studies/chatbot-research/chatgpt-youth-adoption-gen-z-trends" class="text-blue-600 hover:underline">Gen Z adoption research</a>, young users are already comfortable with AI assistants. An education chatbot meets them where they are — on WhatsApp, the institutional website, or within the LMS — providing course recommendations, admission tracking, fee assistance, and academic support throughout their journey.
             </p>
         </div>
 

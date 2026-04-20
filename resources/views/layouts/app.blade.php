@@ -14,17 +14,17 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
     <!-- Primary Meta Tags -->
-    <title>@yield('title', 'AI Customer Automation — WhatsApp Chatbot for Business | HYLUMINIX')</title>
-    <meta name="title" content="@yield('meta_title', 'AI Customer Automation — WhatsApp Chatbot for Business | HYLUMINIX')">
+    <title>@yield('title', 'AI Customer Automation — WhatsApp Chatbot for Business | EINOVATECH')</title>
+    <meta name="title" content="@yield('meta_title', 'AI Customer Automation — WhatsApp Chatbot for Business | EINOVATECH')">
     <meta name="description" content="@yield('meta_description', 'Automate customer enquiries, book appointments & qualify leads 24/7 with our AI-powered WhatsApp chatbot. Book a free 15-minute demo.')">
-    <meta name="keywords" content="@yield('meta_keywords', 'AI automation, WhatsApp chatbot, appointment booking, lead qualification, customer automation, HYLUMINIX')">
+    <meta name="keywords" content="@yield('meta_keywords', 'AI automation, WhatsApp chatbot, appointment booking, lead qualification, customer automation, EINOVATECH')">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="@yield('og_type', 'website')">
     <meta property="og:url" content="{{ url()->current() }}">
-    <meta property="og:site_name" content="HYLUMINIX">
+    <meta property="og:site_name" content="EINOVATECH">
     <meta property="og:locale" content="en_US">
-    <meta property="og:title" content="@yield('og_title', 'AI Customer Automation — WhatsApp Chatbot | HYLUMINIX')">
+    <meta property="og:title" content="@yield('og_title', 'AI Customer Automation — WhatsApp Chatbot | EINOVATECH')">
     <meta property="og:description" content="@yield('og_description', 'Automate customer enquiries, book appointments & qualify leads 24/7 with our AI-powered WhatsApp chatbot.')">
     <meta property="og:image" content="@yield('og_image', asset('images/logos/og-logo.png'))">
     <meta property="og:image:width" content="1200">
@@ -32,9 +32,9 @@
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@HYLUMINIX">
+    <meta name="twitter:site" content="@EINOVATECH">
     <meta name="twitter:url" content="{{ url()->current() }}">
-    <meta name="twitter:title" content="@yield('og_title', 'AI Customer Automation — WhatsApp Chatbot | HYLUMINIX')">
+    <meta name="twitter:title" content="@yield('og_title', 'AI Customer Automation — WhatsApp Chatbot | EINOVATECH')">
     <meta name="twitter:description" content="@yield('og_description', 'Automate customer enquiries, book appointments & qualify leads 24/7.')">
     <meta name="twitter:image" content="@yield('og_image', asset('images/logos/og-logo.png'))">
 
@@ -64,9 +64,9 @@
     {
         "@context": "https://schema.org",
         "@type": "Organization",
-        "name": "HYLUMINIX",
-        "legalName": "Hyluminix Infosystems Private Limited",
-        "url": "https://hyluminix.com",
+        "name": "EINOVATECH",
+        "legalName": "Einovatech Infosystems Private Limited",
+        "url": "https://einovatech.com",
         "logo": "{{ asset('images/logos/og-logo.png') }}",
         "description": "AI-powered WhatsApp chatbots that automate customer enquiries, book appointments & qualify leads 24/7.",
         "foundingDate": "2024",
@@ -81,8 +81,8 @@
             "addressCountry": "IN"
         },
         "sameAs": [
-            "https://linkedin.com/company/hyluminix",
-            "https://twitter.com/hyluminix"
+            "https://linkedin.com/company/einovatech",
+            "https://twitter.com/einovatech"
         ]
     }
     </script>
@@ -128,7 +128,7 @@
         }
         function openCalendly() {
             _loadCalendly(function() {
-                Calendly.initPopupWidget({url: 'https://calendly.com/hyluminix'});
+                Calendly.initPopupWidget({url: 'https://calendly.com/einovatech'});
             });
             return false;
         }

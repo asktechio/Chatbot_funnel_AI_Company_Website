@@ -1,9 +1,9 @@
 @extends('layouts.app')
 
-@section('title', 'AI Chatbot for Insurance Distribution | IRDAI-Compliant InsureChat AI | HYLUMINIX')
+@section('title', 'AI Chatbot for Insurance Distribution | IRDAI-Compliant InsureChat AI | EINOVATECH')
 @section('meta_description', 'AI-powered insurance chatbot for policy discovery, premium calculators, claims assistance, renewal reminders, and POSP/agent management. Life, health & motor insurance — 100% IRDAI-compliant.')
 @section('meta_keywords', 'AI chatbot insurance, insurance distribution chatbot, IRDAI compliant chatbot, claims chatbot, insurance premium calculator AI, POSP chatbot, health insurance chatbot, motor insurance AI, life insurance chatbot, InsureChat')
-@section('og_title', 'AI Chatbot for Insurance Distribution | IRDAI-Compliant | HYLUMINIX')
+@section('og_title', 'AI Chatbot for Insurance Distribution | IRDAI-Compliant | EINOVATECH')
 @section('og_description', 'IRDAI-compliant AI chatbot for insurance: policy discovery, premium comparison, claims tracking, and POSP/agent management across life, health & motor.')
 
 @section('head')
@@ -13,8 +13,8 @@
     "@type": "Article",
     "headline": "AI Chatbot for Insurance Distribution: IRDAI-Compliant Automation for Insurers & Agents",
     "description": "How agentic AI chatbots transform insurance distribution with policy discovery, claims assistance, and regulatory compliance automation.",
-    "author": { "@type": "Organization", "name": "HYLUMINIX", "url": "https://hyluminix.com" },
-    "publisher": { "@type": "Organization", "name": "HYLUMINIX", "logo": { "@type": "ImageObject", "url": "https://hyluminix.com/images/logo.png" } },
+    "author": { "@type": "Organization", "name": "EINOVATECH", "url": "https://einovatech.com" },
+    "publisher": { "@type": "Organization", "name": "EINOVATECH", "logo": { "@type": "ImageObject", "url": "https://einovatech.com/images/logo.png" } },
     "datePublished": "2026-02-26",
     "dateModified": "2026-02-26",
     "mainEntityOfPage": { "@type": "WebPage", "@id": "{{ url()->current() }}" },

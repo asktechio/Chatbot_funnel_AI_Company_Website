@@ -40,7 +40,7 @@ return [
         'model' => env('OPENAI_MODEL', 'gpt-4o-mini'),
     ],
 
-    'hyluminix' => [
+    'einovatech' => [
         'admin_email' => env('ADMIN_NOTIFICATION_EMAIL', 'prabeerkochar@gmail.com'),
     ],
 

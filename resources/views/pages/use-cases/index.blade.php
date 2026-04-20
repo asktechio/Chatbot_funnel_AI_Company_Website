@@ -1,9 +1,9 @@
 @extends('layouts.app')
 
-@section('title', 'AI Chatbot Use Cases by Industry 2026 | Agentic Chatbot Solutions | HYLUMINIX')
+@section('title', 'AI Chatbot Use Cases by Industry 2026 | Agentic Chatbot Solutions | EINOVATECH')
 @section('meta_description', 'Explore industry-specific AI chatbot use cases: BFSI lending, mutual fund advisory, insurance, healthcare, e-commerce, real estate, education & hospitality. See how agentic chatbots transform operations with 70% faster processing and 24/7 availability.')
 @section('meta_keywords', 'AI chatbot use cases, industry chatbot solutions, agentic chatbot, BFSI chatbot, healthcare chatbot, e-commerce chatbot, real estate chatbot, education chatbot, hospitality chatbot, enterprise AI chatbot')
-@section('og_title', 'AI Chatbot Use Cases by Industry | Agentic Chatbot Solutions | HYLUMINIX')
+@section('og_title', 'AI Chatbot Use Cases by Industry | Agentic Chatbot Solutions | EINOVATECH')
 @section('og_description', '8 industry-specific AI chatbot use cases with real implementation data. From BFSI lending to healthcare patient engagement.')
 
 @section('head')
@@ -15,8 +15,8 @@
     "description": "Comprehensive collection of industry-specific AI chatbot use cases showing implementation patterns, ROI data, and compliance frameworks.",
     "publisher": {
         "@type": "Organization",
-        "name": "HYLUMINIX",
-        "url": "https://hyluminix.com"
+        "name": "EINOVATECH",
+        "url": "https://einovatech.com"
     },
     "mainEntity": {
         "@type": "ItemList",
@@ -325,17 +325,17 @@
             <p class="text-lg text-slate-600 max-w-2xl mx-auto">Our chatbot use cases are informed by the latest industry research and adoption data from our case study series.</p>
         </div>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-            <a href="https://hyluminix.com/case-studies/chatbot-research/global-chatbot-adoption-trends-2026" class="group block bg-gradient-to-br from-blue-50 to-indigo-50 rounded-xl p-6 border border-blue-200 hover:shadow-lg transition-all">
+            <a href="https://einovatech.com/case-studies/chatbot-research/global-chatbot-adoption-trends-2026" class="group block bg-gradient-to-br from-blue-50 to-indigo-50 rounded-xl p-6 border border-blue-200 hover:shadow-lg transition-all">
                 <div class="text-3xl font-bold text-blue-600 mb-2">16.3%</div>
                 <h4 class="text-lg font-bold text-slate-900 group-hover:text-blue-600 transition-colors mb-2">Global Chatbot Adoption</h4>
                 <p class="text-slate-600 text-sm">Working-age population actively using AI chatbot products worldwide.</p>
             </a>
-            <a href="https://hyluminix.com/case-studies/chatbot-research/enterprise-chatbot-barriers-pain-points-2026" class="group block bg-gradient-to-br from-amber-50 to-orange-50 rounded-xl p-6 border border-amber-200 hover:shadow-lg transition-all">
+            <a href="https://einovatech.com/case-studies/chatbot-research/enterprise-chatbot-barriers-pain-points-2026" class="group block bg-gradient-to-br from-amber-50 to-orange-50 rounded-xl p-6 border border-amber-200 hover:shadow-lg transition-all">
                 <div class="text-3xl font-bold text-amber-600 mb-2">54%</div>
                 <h4 class="text-lg font-bold text-slate-900 group-hover:text-amber-600 transition-colors mb-2">Enterprise GenAI Usage</h4>
                 <p class="text-slate-600 text-sm">Organizations currently using generative AI in their operations.</p>
             </a>
-            <a href="https://hyluminix.com/case-studies/chatbot-research/chatgpt-youth-adoption-gen-z-trends" class="group block bg-gradient-to-br from-purple-50 to-pink-50 rounded-xl p-6 border border-purple-200 hover:shadow-lg transition-all">
+            <a href="https://einovatech.com/case-studies/chatbot-research/chatgpt-youth-adoption-gen-z-trends" class="group block bg-gradient-to-br from-purple-50 to-pink-50 rounded-xl p-6 border border-purple-200 hover:shadow-lg transition-all">
                 <div class="text-3xl font-bold text-purple-600 mb-2">58%</div>
                 <h4 class="text-lg font-bold text-slate-900 group-hover:text-purple-600 transition-colors mb-2">Gen Z Chatbot Adoption</h4>
                 <p class="text-slate-600 text-sm">Under-30s actively using AI chatbots in 2025 — double 2023 levels.</p>
@@ -351,7 +351,7 @@
             Ready to Deploy an AI Chatbot for Your Industry?
         </h2>
         <p class="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
-            HYLUMINIX builds enterprise-grade agentic chatbots with RAG, regulatory compliance engines, voice automation, and multilingual support. Let's discuss your use case.
+            EINOVATECH builds enterprise-grade agentic chatbots with RAG, regulatory compliance engines, voice automation, and multilingual support. Let's discuss your use case.
         </p>
         <div class="flex flex-col sm:flex-row gap-4 justify-center">
             <a href="{{ url('/#book-demo') }}" class="inline-block px-8 py-4 bg-white text-blue-600 font-semibold rounded-xl hover:bg-blue-50 transition-colors">

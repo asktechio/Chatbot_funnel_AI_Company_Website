@@ -96,8 +96,8 @@
         </div>
 
         <div class="footer">
-            <p>HYLUMINIX — AI Customer Automation Platform</p>
-            <p>This is an automated notification from chatbot.hyluminix.com</p>
+            <p>EINOVATECH — AI Customer Automation Platform</p>
+            <p>This is an automated notification from chatbot.einovatech.com</p>
         </div>
     </div>
 </body>

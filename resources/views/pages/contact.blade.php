@@ -1,24 +1,24 @@
 @extends('layouts.app')
 
-@section('title', 'Contact Us — Get Your Free AI Chatbot Demo | HYLUMINIX')
+@section('title', 'Contact Us — Get Your Free AI Chatbot Demo | EINOVATECH')
 @section('meta_description', 'Get started with AI-powered WhatsApp automation. Schedule a free 15-minute demo to see how our chatbot can automate your customer enquiries. Fast response within 2 hours.')
-@section('meta_keywords', 'contact HYLUMINIX, free chatbot demo, WhatsApp automation quote, AI chatbot consultation, chatbot pricing')
-@section('og_title', 'Book a Free AI Chatbot Demo — Contact HYLUMINIX')
-@section('og_description', 'Schedule a free 15-minute demo with HYLUMINIX. See how our AI-powered WhatsApp chatbot automates customer enquiries 24/7 and books appointments automatically.')
+@section('meta_keywords', 'contact EINOVATECH, free chatbot demo, WhatsApp automation quote, AI chatbot consultation, chatbot pricing')
+@section('og_title', 'Book a Free AI Chatbot Demo — Contact EINOVATECH')
+@section('og_description', 'Schedule a free 15-minute demo with EINOVATECH. See how our AI-powered WhatsApp chatbot automates customer enquiries 24/7 and books appointments automatically.')
 
 @section('head')
 <script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "ContactPage",
-    "name": "Contact HYLUMINIX",
-    "description": "Book a free 15-minute demo to see how HYLUMINIX AI chatbot automates your customer enquiries.",
+    "name": "Contact EINOVATECH",
+    "description": "Book a free 15-minute demo to see how EINOVATECH AI chatbot automates your customer enquiries.",
     "url": "{{ url('/contact') }}",
     "publisher": {
         "@type": "Organization",
-        "name": "HYLUMINIX",
-        "url": "https://hyluminix.com",
-        "logo": "https://hyluminix.com/images/logos/og-logo.png"
+        "name": "EINOVATECH",
+        "url": "https://einovatech.com",
+        "logo": "https://einovatech.com/images/logos/og-logo.png"
     }
 }
 </script>
@@ -65,7 +65,7 @@
                         <div class="text-lg font-bold text-slate-900 group-hover:text-green-600 transition-colors">Chat Now</div>
                     </div>
                 </a>
-                <a href="mailto:info@hyluminix.com" class="flex items-center gap-3 bg-white rounded-xl px-6 py-4 shadow-lg hover:shadow-xl transition-all duration-300 group">
+                <a href="mailto:hello@einovatech.io" class="flex items-center gap-3 bg-white rounded-xl px-6 py-4 shadow-lg hover:shadow-xl transition-all duration-300 group">
                     <div class="w-12 h-12 bg-gradient-to-br from-violet-600 to-purple-600 rounded-lg flex items-center justify-center">
                         <svg class="w-6 h-6 text-white" fill="currentColor" viewBox="0 0 20 20">
                             <path d="M2.003 5.884L10 9.882l7.997-3.998A2 2 0 0016 4H4a2 2 0 00-1.997 1.884z"></path>
@@ -74,7 +74,7 @@
                     </div>
                     <div class="text-left">
                         <div class="text-xs text-slate-500 font-medium">Email Us</div>
-                        <div class="text-lg font-bold text-slate-900 group-hover:text-violet-600 transition-colors">info@hyluminix.com</div>
+                        <div class="text-lg font-bold text-slate-900 group-hover:text-violet-600 transition-colors">hello@einovatech.io</div>
                     </div>
                 </a>
             </div>
@@ -182,7 +182,7 @@
             <!-- Contact Info Sidebar -->
             <div class="space-y-8">
                 <div>
-                    <h3 class="text-xl font-bold text-slate-900 mb-4">Why Choose HYLUMINIX?</h3>
+                    <h3 class="text-xl font-bold text-slate-900 mb-4">Why Choose EINOVATECH?</h3>
                     <div class="space-y-4">
                         <div class="flex gap-4 items-start">
                             <div class="w-10 h-10 bg-teal-100 rounded-lg flex items-center justify-center flex-shrink-0">
@@ -230,7 +230,7 @@
                         <div class="flex items-start gap-3">
                             <svg class="w-5 h-5 text-slate-400 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>
                             <div>
-                                <div class="font-medium">Hyluminix Infosystems Pvt. Ltd.</div>
+                                <div class="font-medium">Einovatech Infosystems Pvt. Ltd.</div>
                                 <div class="text-slate-500">Indore, Madhya Pradesh, India</div>
                             </div>
                         </div>

@@ -1,9 +1,9 @@
 @extends('layouts.app')
 
-@section('title', 'AI Chatbot for Mutual Fund Advisory | SEBI-Compliant Fund Advisor | HYLUMINIX')
+@section('title', 'AI Chatbot for Mutual Fund Advisory | SEBI-Compliant Fund Advisor | EINOVATECH')
 @section('meta_description', 'AI-powered mutual fund chatbot covering 1,500+ schemes: chat-first fund advisory, SIP planning, goal-based investing, portfolio tracking with XIRR, and IFA/RIA dashboard. 100% SEBI-compliant.')
 @section('meta_keywords', 'AI chatbot mutual fund, mutual fund advisory chatbot, SEBI compliant chatbot, SIP planner AI, portfolio tracking chatbot, mutual fund comparison AI, IFA chatbot, RIA chatbot, wealth management AI, goal based investing chatbot')
-@section('og_title', 'AI Chatbot for Mutual Fund Advisory | SEBI-Compliant | HYLUMINIX')
+@section('og_title', 'AI Chatbot for Mutual Fund Advisory | SEBI-Compliant | EINOVATECH')
 @section('og_description', 'SEBI-compliant AI chatbot for mutual fund advisory: 1,500+ schemes, SIP planning, portfolio tracking with XIRR, and IFA/RIA management dashboard.')
 
 @section('head')
@@ -13,8 +13,8 @@
     "@type": "Article",
     "headline": "AI Chatbot for Mutual Fund Advisory: SEBI-Compliant Wealth Management Automation",
     "description": "How AI chatbots transform mutual fund advisory with chat-first fund discovery, SIP planning, portfolio tracking, and SEBI compliance automation.",
-    "author": { "@type": "Organization", "name": "HYLUMINIX", "url": "https://hyluminix.com" },
-    "publisher": { "@type": "Organization", "name": "HYLUMINIX", "logo": { "@type": "ImageObject", "url": "https://hyluminix.com/images/logo.png" } },
+    "author": { "@type": "Organization", "name": "EINOVATECH", "url": "https://einovatech.com" },
+    "publisher": { "@type": "Organization", "name": "EINOVATECH", "logo": { "@type": "ImageObject", "url": "https://einovatech.com/images/logo.png" } },
     "datePublished": "2026-02-26",
     "dateModified": "2026-02-26",
     "mainEntityOfPage": { "@type": "WebPage", "@id": "{{ url()->current() }}" },

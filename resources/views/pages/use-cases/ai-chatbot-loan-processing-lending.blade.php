@@ -1,9 +1,9 @@
 @extends('layouts.app')
 
-@section('title', 'AI Chatbot for Loan Processing & Lending | RBI-Compliant LoanChat AI | HYLUMINIX')
+@section('title', 'AI Chatbot for Loan Processing & Lending | RBI-Compliant LoanChat AI | EINOVATECH')
 @section('meta_description', 'Discover how AI chatbots transform loan processing with chat-first discovery, smart EMI calculators, in-chat KYC via Digilocker, and instant eligibility across 20+ lenders. 70% faster processing, 100% RBI-compliant.')
 @section('meta_keywords', 'AI chatbot loan processing, lending chatbot, RBI compliant chatbot, loan EMI calculator chatbot, digital lending AI, personal loan chatbot, home loan chatbot, business loan AI, DSA chatbot, Digilocker KYC chatbot')
-@section('og_title', 'AI Chatbot for Loan Processing & Lending | LoanChat AI | HYLUMINIX')
+@section('og_title', 'AI Chatbot for Loan Processing & Lending | LoanChat AI | EINOVATECH')
 @section('og_description', 'RBI-compliant AI chatbot for loan processing: chat-first discovery across 6 loan categories, smart calculators, in-chat KYC, and instant eligibility checks.')
 
 @section('head')
@@ -13,8 +13,8 @@
     "@type": "Article",
     "headline": "AI Chatbot for Loan Processing & Lending: How LoanChat AI Transforms Digital Lending",
     "description": "Complete guide to AI-powered loan processing chatbots with RBI compliance, in-chat KYC, smart calculators, and multi-lender comparison.",
-    "author": { "@type": "Organization", "name": "HYLUMINIX", "url": "https://hyluminix.com" },
-    "publisher": { "@type": "Organization", "name": "HYLUMINIX", "logo": { "@type": "ImageObject", "url": "https://hyluminix.com/images/logo.png" } },
+    "author": { "@type": "Organization", "name": "EINOVATECH", "url": "https://einovatech.com" },
+    "publisher": { "@type": "Organization", "name": "EINOVATECH", "logo": { "@type": "ImageObject", "url": "https://einovatech.com/images/logo.png" } },
     "datePublished": "2026-02-26",
     "dateModified": "2026-02-26",
     "mainEntityOfPage": { "@type": "WebPage", "@id": "{{ url()->current() }}" },
