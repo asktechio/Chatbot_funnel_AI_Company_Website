@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /chatbot-sales-lead
+Disallow: /chatbot-sales-chat
+
+Sitemap: https://chatbot.hyluminix.com/sitemap.xml
