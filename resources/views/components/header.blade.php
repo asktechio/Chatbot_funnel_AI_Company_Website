@@ -8,11 +8,6 @@
 
             <!-- Logo -->
             <a href="{{ url('/') }}" class="flex items-center gap-2 group relative z-20">
-                <img src="/images/logos/logo-nav.png"
-                     srcset="/images/logos/logo-nav.png 1x, /images/logos/logo-nav@2x.png 2x"
-                     alt="EINOVATECH Logo"
-                     class="h-10 w-auto group-hover:opacity-90 transition-opacity"
-                     width="160" height="40">
                 <span class="text-lg font-bold tracking-wide text-slate-800 group-hover:text-blue-600 transition-colors">EINOVATECH</span>
             </a>
 

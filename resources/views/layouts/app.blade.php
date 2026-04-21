@@ -26,7 +26,7 @@
     <meta property="og:locale" content="en_US">
     <meta property="og:title" content="@yield('og_title', 'AI Customer Automation — WhatsApp Chatbot | EINOVATECH')">
     <meta property="og:description" content="@yield('og_description', 'Automate customer enquiries, book appointments & qualify leads 24/7 with our AI-powered WhatsApp chatbot.')">
-    <meta property="og:image" content="@yield('og_image', asset('images/logos/og-logo.png'))">
+    <meta property="og:image" content="@yield('og_image', '')">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
 
@@ -36,7 +36,7 @@
     <meta name="twitter:url" content="{{ url()->current() }}">
     <meta name="twitter:title" content="@yield('og_title', 'AI Customer Automation — WhatsApp Chatbot | EINOVATECH')">
     <meta name="twitter:description" content="@yield('og_description', 'Automate customer enquiries, book appointments & qualify leads 24/7.')">
-    <meta name="twitter:image" content="@yield('og_image', asset('images/logos/og-logo.png'))">
+    <meta name="twitter:image" content="@yield('og_image', '')">
 
     <!-- Canonical URL -->
     <link rel="canonical" href="@yield('canonical', url()->current())">
@@ -67,7 +67,6 @@
         "name": "EINOVATECH",
         "legalName": "Einovatech Infosystems Private Limited",
         "url": "https://einovatech.com",
-        "logo": "{{ asset('images/logos/og-logo.png') }}",
         "description": "AI-powered WhatsApp chatbots that automate customer enquiries, book appointments & qualify leads 24/7.",
         "foundingDate": "2024",
         "contactPoint": {

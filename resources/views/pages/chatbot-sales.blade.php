@@ -24,8 +24,7 @@
     "provider": {
         "@type": "Organization",
         "name": "EINOVATECH",
-        "url": "https://einovatech.com",
-        "logo": "https://einovatech.com/images/logos/og-logo.png"
+        "url": "https://einovatech.com"
     }
 }
 </script>

@@ -13,7 +13,6 @@
     "@type": "Organization",
     "name": "EINOVATECH",
     "url": "https://einovatech.com",
-    "logo": "https://einovatech.com/images/logos/og-logo.png",
     "description": "EINOVATECH builds AI-powered WhatsApp chatbots and customer automation solutions for businesses.",
     "foundingDate": "2023",
     "sameAs": [

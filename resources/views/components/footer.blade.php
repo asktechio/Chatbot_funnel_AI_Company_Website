@@ -5,11 +5,7 @@
             <!-- Brand & Description -->
             <div class="lg:col-span-2">
                 <div class="flex items-center mb-4">
-                    <img src="/images/logos/logo-footer.png"
-                         srcset="/images/logos/logo-footer.png 1x, /images/logos/logo-footer@2x.png 2x"
-                         alt="EINOVATECH Logo"
-                         class="h-10 w-auto brightness-0 invert"
-                         width="160" height="40">
+                    <span class="text-xl font-extrabold tracking-wide text-white">EINOVATECH</span>
                 </div>
                 <p class="text-slate-300 mb-6 leading-relaxed">
                     AI-powered WhatsApp chatbots that automate customer enquiries, book appointments &amp; qualify leads 24/7.
@@ -88,7 +84,7 @@
         <div class="mt-12 pt-8 border-t border-slate-800">
             <div class="flex flex-col md:flex-row justify-between items-center">
                 <div class="flex flex-wrap items-center gap-x-6 gap-y-1 text-sm text-slate-400">
-                    <span>&copy; {{ date('Y') }} Einovatech Infosystems Private Limited. All rights reserved.</span>
+                    <span>&copy; {{ date('Y') }} Einova Ventures Consultant LLC. All rights reserved.</span>
                     <span>CIN: U62091MP2024PTC073760</span>
                     <span>GST: 23AAHCH6362C1ZV</span>
                 </div>
