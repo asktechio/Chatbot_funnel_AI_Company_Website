@@ -606,11 +606,11 @@ document.addEventListener('alpine:init', () => {
 {{-- ============================================= --}}
 {{-- STAGE 2 — HOOK: PAIN-DRIVEN HERO              --}}
 {{-- ============================================= --}}
-<section class="relative bg-gradient-to-br from-slate-900 via-red-950 to-slate-900 pt-20 pb-14 md:pt-20 md:pb-16 lg:pt-24 lg:pb-20 overflow-hidden" id="hero">
+<section class="relative pt-20 pb-14 md:pt-20 md:pb-16 lg:pt-24 lg:pb-20 overflow-hidden" id="hero" style="background: linear-gradient(135deg, #070F1A 0%, #0A2540 50%, #0D2E4E 100%);">
     {{-- Background effects --}}
-    <div class="absolute inset-0 opacity-20">
-        <div class="absolute top-10 left-10 w-72 h-72 bg-red-500 rounded-full filter blur-[100px] animate-pulse"></div>
-        <div class="absolute bottom-10 right-10 w-96 h-96 bg-orange-500 rounded-full filter blur-[120px] animate-pulse" style="animation-delay: 2s;"></div>
+    <div class="absolute inset-0 opacity-30">
+        <div class="absolute top-10 left-10 w-72 h-72 rounded-full filter blur-[100px] animate-pulse" style="background: rgba(0,212,255,0.15);"></div>
+        <div class="absolute bottom-10 right-10 w-96 h-96 rounded-full filter blur-[120px] animate-pulse" style="background: rgba(0,130,168,0.2); animation-delay: 2s;"></div>
     </div>
     <div class="absolute inset-0 bg-[url('data:image/svg+xml,%3Csvg%20width%3D%2260%22%20height%3D%2260%22%20viewBox%3D%220%200%2060%2060%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cg%20fill%3D%22none%22%20fill-rule%3D%22evenodd%22%3E%3Cg%20fill%3D%22%23ffffff%22%20fill-opacity%3D%220.03%22%3E%3Cpath%20d%3D%22M36%2034v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6%2034v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6%204V0H4v4H0v2h4v4h2V6h4V4H6z%22%2F%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E')] opacity-40"></div>
 
@@ -618,17 +618,17 @@ document.addEventListener('alpine:init', () => {
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-16 items-start">
             {{-- Left: Pain-driven copy --}}
             <div class="pb-4 lg:pb-10">
-                <div class="inline-flex items-center bg-red-500/20 backdrop-blur-sm px-4 py-2 rounded-full mb-6 border border-red-400/30">
+                <div class="inline-flex items-center backdrop-blur-sm px-4 py-2 rounded-full mb-6" style="background: rgba(0,212,255,0.08); border: 1px solid rgba(0,212,255,0.2);">
                     <span class="relative flex h-2 w-2 mr-2">
-                        <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-400 opacity-75"></span>
-                        <span class="relative inline-flex rounded-full h-2 w-2 bg-red-500"></span>
+                        <span class="animate-ping absolute inline-flex h-full w-full rounded-full opacity-75" style="background: #00D4FF;"></span>
+                        <span class="relative inline-flex rounded-full h-2 w-2" style="background: #00D4FF;"></span>
                     </span>
-                    <span class="text-red-200 font-medium text-sm">You're losing revenue right now</span>
+                    <span class="font-medium text-sm" style="color: #00D4FF;">You're losing revenue right now</span>
                 </div>
 
                 <h1 class="text-4xl md:text-5xl lg:text-[3.25rem] font-bold text-white mb-4 leading-[1.15]">
                     Are You Losing Customers Because Your Business
-                    <span class="bg-gradient-to-r from-red-400 to-orange-400 bg-clip-text text-transparent"> Misses Calls & WhatsApp Messages?</span>
+                    <span class="bg-clip-text text-transparent" style="background-image: linear-gradient(to right, #00D4FF, #0082A8);"> Misses Calls & WhatsApp Messages?</span>
                 </h1>
 
                 <p class="text-lg text-slate-300 mb-5 leading-relaxed max-w-xl">
@@ -637,7 +637,7 @@ document.addEventListener('alpine:init', () => {
 
                 {{-- Single clear CTA --}}
                 <div class="flex flex-col sm:flex-row gap-4 mb-5">
-                    <a href="#book-demo" class="group inline-flex items-center justify-center px-8 py-4 bg-gradient-to-r from-orange-500 to-red-600 text-white font-bold rounded-xl hover:from-orange-400 hover:to-red-500 transition-all duration-300 shadow-lg shadow-red-500/25 hover:shadow-red-500/40 text-lg">
+                    <a href="#book-demo" class="group inline-flex items-center justify-center px-8 py-4 font-bold rounded-xl transition-all duration-300 text-lg" style="background: linear-gradient(135deg, #00D4FF 0%, #0082A8 100%); color: #0A2540; box-shadow: 0 8px 24px rgba(0,212,255,0.35);">
                         Book a 15-Minute AI Demo
                         <svg class="w-5 h-5 ml-2 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
                     </a>
@@ -662,7 +662,7 @@ document.addEventListener('alpine:init', () => {
                 </div>
 
                 {{-- Urgency --}}
-                <div class="flex items-center gap-2 text-red-300/80 text-sm">
+                <div class="flex items-center gap-2 text-sm" style="color: rgba(0,212,255,0.6);">
                     <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-12a1 1 0 10-2 0v4a1 1 0 00.293.707l2.828 2.829a1 1 0 101.415-1.415L11 9.586V6z" clip-rule="evenodd"></path></svg>
                     Only 5 onboarding slots available this month
                 </div>

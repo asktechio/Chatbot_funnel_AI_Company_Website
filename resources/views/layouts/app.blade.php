@@ -88,7 +88,7 @@
 
     @yield('head')
 </head>
-<body class="font-sans antialiased bg-white text-slate-900 leading-normal">
+<body class="font-sans antialiased leading-normal" style="background: #070F1A; color: #E2E8F0;">
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5RXTQQ7N"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -132,5 +132,10 @@
             return false;
         }
     </script>
+
+    <!-- AOS — Animate on Scroll -->
+    <link rel="stylesheet" href="https://unpkg.com/aos@2.3.4/dist/aos.css">
+    <script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
+    <script>AOS.init({ duration: 600, once: true, easing: 'ease-out-cubic', offset: 60 });</script>
 </body>
 </html>
